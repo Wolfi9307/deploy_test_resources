@@ -1,2 +1,2 @@
 <?php
-echo "<h1>Resources version one</h1>";
+echo "<h1>Resources version two</h1>";
